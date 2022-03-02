@@ -1,0 +1,2 @@
+# -Multi-person-chat-system-based-on-C-S-structure
+The objectives of the project are as follows:  Provide users with separate account and password to protect privacy.  The system can provide a friendly user interface, and users who use it for the first time can get started quickly.  The system provides users with simple and easy to understand group chat and private chat entry and query history chat record interface.
